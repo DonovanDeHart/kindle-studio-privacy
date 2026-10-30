@@ -6,6 +6,8 @@ title: Kindle Studio – Privacy Policy
 
 *Last updated: 29 October 2026*
 
+[Home](home.html) · [Terms of Service](terms.html)
+
 Kindle Studio is a private desktop application made and used only by Donovan DeHart to produce and publish videos for his own YouTube channels: **Kindle The Spark**, **Kindle The Cadence** and **Kindle The Calm**. It is not offered, sold or distributed to anyone else and has no other users.
 
 ## Use of YouTube API Services
